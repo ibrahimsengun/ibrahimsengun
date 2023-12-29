@@ -6,7 +6,7 @@ React.js Developer
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ibrahimsengundev@gmail.com](mailto:ibrahimsengundev@gmail.com)
-* 🚀  I'm currently working on [Jot Down](http://github.com/ibrahimsengun/jot-down-next)
+* 🚀  I'm currently working on [expense-tracker](http://github.com/ibrahimsengun/expense-tracker)
 * 🧠  I'm learning Tailwind CSS and MongoDB
 
 ### Skills
